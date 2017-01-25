@@ -4,5 +4,4 @@ CACHE:
 ./favicon.ico
 ../styles.bundle.js
 ../inline.bundle.js
-../vendor.bundle.js
 ../main.bundle.js
